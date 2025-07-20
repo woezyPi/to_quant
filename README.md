@@ -1,11 +1,11 @@
-# 📈 to_quant — Mon aventure en finance quantitative
+# 📈 to_quant Mon aventure en finance quantitative
 
 Bienvenue dans **to_quant**, un carnet de bord vivant et structuré de mon apprentissage en finance quantitative.
 
 ## 🎯 Objectifs du repo
 
 Ce repository a pour but de :
-- Comprendre et expliquer les **concepts fondamentaux** de la finance quantitative (Black-Scholes, Monte Carlo, VaR, etc.)
+- Comprendre et expliquer les **concepts fondamentaux** de la finance quantitative 
 - Implémenter **des algorithmes de pricing, de simulation et de stratégie de trading**
 - Tester ces modèles sur des **données financières réelles**
 - Documenter chaque étape pour **suivre mon évolution**, structurer ma montée en compétence, et bâtir à terme une vraie expertise.
