@@ -1,4 +1,4 @@
-# 📈 to_quant Mon aventure en finance quantitative
+# 📈 to_quant mon aventure en finance quantitative
 
 Bienvenue dans **to_quant**, un carnet de bord vivant et structuré de mon apprentissage en finance quantitative.
 
